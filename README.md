@@ -1,6 +1,6 @@
 # sobi-save-to-strava
 
-Tools to convert Social Bicycles (SoBi) rides into GPX, to upload to Strava
+Tools to convert [Social Bicycles (SoBi)](http://socialbicycles.com/) rides into GPX, to upload to [Strava](https://www.strava.com/)
 
 # Installation
 
